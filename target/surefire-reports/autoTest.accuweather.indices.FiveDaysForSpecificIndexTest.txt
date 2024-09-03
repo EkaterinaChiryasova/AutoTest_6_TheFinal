@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: autoTest.accuweather.indices.FiveDaysForSpecificIndexTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.286 s <<< FAILURE! - in autoTest.accuweather.indices.FiveDaysForSpecificIndexTest
+getForFiveDaysForASpecificIndex  Time elapsed: 0.285 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <503>.
+
+	at autoTest.accuweather.indices.FiveDaysForSpecificIndexTest.getForFiveDaysForASpecificIndex(FiveDaysForSpecificIndexTest.java:31)
+

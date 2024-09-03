@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: autoTest.accuweather.location.ListCountryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.28 s <<< FAILURE! - in autoTest.accuweather.location.ListCountryTest
+getListCountry  Time elapsed: 0.277 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <503>.
+
+	at autoTest.accuweather.location.ListCountryTest.getListCountry(ListCountryTest.java:31)
+

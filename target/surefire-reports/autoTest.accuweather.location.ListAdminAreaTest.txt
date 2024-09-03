@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: autoTest.accuweather.location.ListAdminAreaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.287 s <<< FAILURE! - in autoTest.accuweather.location.ListAdminAreaTest
+getListAdminArea  Time elapsed: 0.286 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <503>.
+
+	at autoTest.accuweather.location.ListAdminAreaTest.getListAdminArea(ListAdminAreaTest.java:32)
+

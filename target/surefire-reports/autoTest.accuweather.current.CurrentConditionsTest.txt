@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: autoTest.accuweather.current.CurrentConditionsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.312 s <<< FAILURE! - in autoTest.accuweather.current.CurrentConditionsTest
+getCurrentConditions  Time elapsed: 0.311 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <503>.
+
+	at autoTest.accuweather.current.CurrentConditionsTest.getCurrentConditions(CurrentConditionsTest.java:33)
+
